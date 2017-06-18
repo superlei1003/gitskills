@@ -2,3 +2,5 @@ It is for test.
 creat a new branch is quick.
 push branch quick and simple.
 brach info save.
+
+bug branch
